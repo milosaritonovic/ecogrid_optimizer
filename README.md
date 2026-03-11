@@ -1,4 +1,4 @@
-# EcoGrid Optimizer: EV Infrastructure Analysis ⚡
+# EcoGrid Optimizer: EV Infrastructure Analysis
 
 ## Project Overview
 EcoGrid is a startup managing a national network of Electric Vehicle (EV) charging stations. This project serves as a comprehensive "Clean Energy Report" designed for stakeholders and investors. It demonstrates the ability to ingest raw, inconsistent sensor data, perform complex time-series analysis, and derive human-centric business insights.
